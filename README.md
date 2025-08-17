@@ -1,1 +1,1 @@
-# AI-Summerizer-App
+# AI-Summerizer-Tool
